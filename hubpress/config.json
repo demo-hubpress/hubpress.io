@@ -1,10 +1,28 @@
 {
   "meta": {
-    "username": "put your username here",
-    "repositoryName": "put your repository name here",
-    "branch": "master"
+    "username": "demo-hubpress",
+    "repositoryName": "hubpress.io",
+    "branch": "master",
+    "cname": "database-administrator-fox-66443.netlify.com"
   },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
+  },
+  "urls": {
+    "site": "http://database-administrator-fox-66443.netlify.com",
+    "hubpress": "http://database-administrator-fox-66443.netlify.com",
+    "theme": "//database-administrator-fox-66443.netlify.com/themes/casper",
+    "images": "http://database-administrator-fox-66443.netlify.com/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ],
+    "_Ctor": {}
   }
 }
