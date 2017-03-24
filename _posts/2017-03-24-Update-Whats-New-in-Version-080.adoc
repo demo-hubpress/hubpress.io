@@ -1,0 +1,43 @@
+= Update: What's New in Version 0.8.0
+:hp-tags: roadmap, release
+:toc: macro
+:release: 0.8.0
+
+== The configuration form
+
+You do not need to change the *config.json* anymore, now you can do it with the *Configuration form*.
+This form appears when the configuration of your repository is not done.
+You have to set the mandatory fields (username, repository name and the branch) and the domain name if you have one.
+
+Click on the *Ok, let's go!* button and you will be redirect to the login form.
+Then login and the configuration will be save on your repository.
+
+That's it!
+
+image::https://cloud.githubusercontent.com/assets/2006548/24248743/e63f9968-0fd0-11e7-99a0-14e0e3779af7.gif[]
+
+
+== A new theme is here: The Shell
+
+Some of you wanted to have a dark theme so we added one.
+You can now use the theme *the-shell* in your settings, here is a sample of the result with my personal blog:
+
+image::https://cloud.githubusercontent.com/assets/2006548/24248939/bb3530ec-0fd1-11e7-93ae-8e8939f6aecd.png[]
+
+== Some fixes
+
+We have fixed a bug on the generation of tags, thanks to Krzysztof Zbiciński https://github.com/zbicin[@zbicin].
+
+We have also fixed the highlighting of code blocks, here is a example with the theme *casper*:
+
+image::https://cloud.githubusercontent.com/assets/2006548/24249156/7c4a3d68-0fd2-11e7-85c7-930bebb52ef9.png[]
+
+== What's next?
+
+For the next version, we hope to add the static page feature and why not the sitemap generation.
+
+As usual, if you love HubPress, we’d love to hear why you love it. Why not show your love by sharing this post, or perhaps consider donating through PayPal or Gratipay to HubPress.
+
+And if there is something about HubPress you think we can do better, tell us! We can only improve the tool if you open feature requests in GitHub.
+
+Thanks for using HubPress, and keep sharing!
